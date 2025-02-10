@@ -1,0 +1,56 @@
+
+  .topnav a {
+    float: left;
+    color: #1a1818;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+   
+  }
+
+  
+  .searchBar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+  }
+  
+  #searchQueryInput {
+    width: 30%;
+    height: 2.8rem;
+    background: #fad4d4;
+    outline: none;
+    border: none;
+    border-radius: 0.rem;
+    padding: 0 3.5rem 0 1.5rem;
+    font-size: 1rem;
+    text-align: center;
+    border: 1px solid rgb(19, 14, 14);
+  }
+  
+  #searchQuerySubmit {
+    width: 3.5rem;
+    height: 2.8rem;
+    margin-left: -3.5rem;
+    background: none;
+    border: none;
+    outline: none;
+   
+  }
+  
+
+  
+ .logo{
+    width:70px;
+    height:70px;
+ }
+
+ .checked {
+    color: rgb(149, 102, 14);
+  }
+
+
+
+  
